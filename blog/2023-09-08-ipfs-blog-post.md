@@ -2,7 +2,7 @@
 slug: long-blog-post
 title: Long Blog Post
 authors: jl 
-tags: [hello, docusaurus]
+tags: [ipfs, web3, tech]
 ---
 
 # IPFS: Revolutionizing the Digital Landscape
