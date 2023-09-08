@@ -5,13 +5,6 @@ authors: [jl]
 tags: [devops, linux, programming, web3, tech]
 ---
 
-
-
-
-
-
-
-
 Greetings, tech enthusiasts! 
 
 I'm Juan-luke Klopper, and I'm thrilled to welcome you to my tech-centric blog. This marks the beginning of an exciting adventure where I'll be sharing my insights on the latest and greatest technologies I encounter on my ever-evolving journey.
