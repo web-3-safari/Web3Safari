@@ -44,7 +44,7 @@ The versatility of IPFS opens doors to numerous applications:
 As we explore these practical applications, it's evident that IPFS isn't confined to the realm of technology alone. It extends its reach to reshape industries, empower users, and redefine the very foundations of information sharing and storage.
 
 
-## **Community Strength and Vibrancy**
+## Community Strength and Vibrancy
 
 The IPFS ecosystem isn't just a technology; it's a thriving community. At the heart of this digital revolution, you'll find a diverse and passionate group of individuals coming together to shape the future of the internet. With over 50 community-built tools and hundreds of other resources showcased at [Awesome IPFS](https://awesome.ipfs.tech), the collective effort is nothing short of remarkable. Regular community meetings, including monthly video calls, provide an open forum for discussions, ideas, and collaborations. The IPFS YouTube channel, boasting over 12,000 followers has more than 1400 videos about the protocol, which serves as a valuable resource hub, making it easier for enthusiasts and newcomers alike to explore and understand this groundbreaking protocol.
 
