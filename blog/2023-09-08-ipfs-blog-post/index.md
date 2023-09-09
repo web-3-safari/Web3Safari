@@ -16,6 +16,8 @@ In a world where digital content is king, a revolutionary technology called IPFS
 
 At its core, IPFS has two factors which makes it way more than just another file storage system; Firstly it's a new way of thinking about the internet. Today, the internet mostly depends on a few prominent companies with robust computers that serve as the foundation or core. This model puts control of the internet into the hands of a small amount of people. IPFS works to change this by using a network of peers to store and find files. In simpler terms all computers interact with each other instead of only interacting the large servers. The second factor which makes IPFS so revolutionary is that it stores the files using content-addressable approach which ensures that files are uniquely identified by their content, This is like giving each file its own special code. So, if a file changes, its code changes too. This mechanism ensures that an unalterable copy remains preserved and accessable.
 
+![Centralized vs Decentralized Internet](./web2Vweb3.svg)
+
 ## Benefits Beyond Measure
 
 IPFS brings a host of benefits to the table, revolutionizing how we interact with data:
@@ -30,6 +32,8 @@ IPFS brings a host of benefits to the table, revolutionizing how we interact wit
 The versatility of IPFS opens doors to numerous applications:
 
 - **File Sharing**: IPFS streamlines the process of sharing files directly between peers, eliminating the reliance on central servers. But it doesn't stop there. Imagine downloading a file from not just one source, but multiple sources simultaneously, enhancing efficiency and speed. IPFS achieves this by fetching content from nearby nodes and, when possible, engaging in parallel content fetching from numerous nodes at once. This innovation has the potential to revolutionize large-scale file sharing, making it not only faster but also more resilient. examples include [arbose](https://arbo.re/) and [FileNation](https://github.com/FileNation/FileNation)
+
+![file sharing diagram](./File_sharing_diagram.svg)
 
 - **Website Hosting**: Traditional web hosting faces limitations. IPFS works to fix those limilstions by distributing the files for the website across the globe webmasters can exponentially reduce the risk of downtimes due to server failures. This distributed website hosting model paves the way for a more reliable and responsive online presence. Additionally Developers can implement [Fleek](https://fleek.co/) which works similar to using Netlify or vercel by tracking a git repo to automatically build and deploy the website to IPFS using upon changes
 
