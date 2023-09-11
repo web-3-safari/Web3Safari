@@ -11,7 +11,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://juan-lukeklopper.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/docusaurus_testing/',
@@ -48,6 +48,7 @@ const config = {
     ],
   ],
 
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -76,7 +77,7 @@ const config = {
             items: [
               {
                 label: 'LinkedIn',
-                href: 'https://www.linkedin.com/in/juan-luke-klopper-81ab35219',
+                href: 'https://www.linkedin.com/in/juan-luke-klopper',
               },
               {
                 label: 'Twitter',
