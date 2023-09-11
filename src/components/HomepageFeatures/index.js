@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
     {
         title: 'Explore, Discover, and Learn',
-        Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+        Svg: require('@site/static/img/undraw_explore.svg').default,
         description: (
             <>
             Your Tech Companion for Every Step of the Journey. With our blog as your guide, tech exploration becomes an exciting adventure. We offer insights, trends, and expert advice to empower your digital endeavors.
@@ -14,7 +14,7 @@ const FeatureList = [
     },
   {
     title: 'Stay Ahead in Tech',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/undraw_future.svg').default,
     description: (
       <>
         Enjoy a Monthly Update Packed with Knowledge and Exploration
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Conversations with the Cosmos',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/undraw_helmet.svg').default,
     description: (
       <>
         Our mission is to journey through the vast universe of ideas, charting the territories of philosophy, science, and knowledge. Join us on this intellectual adventure as we seek wisdom and understanding beyond the boundaries of conventional thinking.
