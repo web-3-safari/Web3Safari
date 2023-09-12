@@ -3,6 +3,7 @@ slug: "IPFS: Revolutionizing the Digital Landscape"
 title: "IPFS: Revolutionizing the Digital Landscape"
 authors: [jl]
 tags: [ipfs, web3, tech]
+enableComments: true
 ---
 
 # IPFS: Revolutionizing the Digital Landscape
