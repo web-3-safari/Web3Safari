@@ -14,7 +14,7 @@ const config = {
   url: 'https://juan-lukeklopper.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/docusaurus_testing/',
+  baseUrl: '/Exploring_the_tech_frontier/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
