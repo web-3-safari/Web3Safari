@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description='name="google-adsense-account" content="ca-pub-4701543366747911"'>
+      description="ca-pub-4701543366747911">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
