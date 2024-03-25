@@ -1,11 +1,18 @@
-# Exploring the tech frontier
+# Web3Safari
 
-Welcome to my personal tech blog! This repository contains the source code for my blog, which is built using Docusaurus.
+Welcome to our validator's blog! This repository contains the source code for the blog and all posts!
 
-## About Me
+## About Us
 
-I'm Juan-luke Klopper, a tech enthusiast and software engineer passionate about blockchain, AI, open-source software and basically all things tech. In this blog, I share my insights, tutorials, and thoughts on various tech topics.
+Welcome to Web3safari's blog, your gateway to the vibrant world of blockchain technology and validation. Based in the heart of South Africa, Web3safari is dedicated to driving forward the blockchain revolution and empowering Africa to become a prominent player in this transformative industry.
 
+At Web3safari, we take pride in our role as a leading blockchain validator company. Our mission is to ensure the integrity and security of blockchain networks, fostering decentralization and efficiency in digital ecosystems. With a focus on innovation and excellence, we provide cutting-edge validation services that enable individuals to harness the full potential of blockchain technology.
+
+Through this blog, we aim to share our knowledge, insights, and passion for blockchain with our audience. From technical deep dives and industry analysis to discussions on emerging trends and challenges, Web3safari's blog serves as a valuable resource for anyone interested in exploring the possibilities of blockchain.
+
+Join us on our mission to make Africa a powerhouse in the blockchain space. Together, let's unlock new opportunities and pave the way for a decentralized future that benefits everyone.
+
+Connect with us and embark on your blockchain safari today!
 
 ## Quick Start
 
@@ -14,14 +21,14 @@ To run this blog locally and start writing your own blog posts, follow these ste
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/Juan-LukeKlopper/Exploring_the_tech_frontier.git
+git clone https://github.com/web-3-safari/Web3Safari.git
 ```
 
 Navigate to the project directory:
 
 
 ```bash
-cd Exploring_the_tech_frontier
+cd Web3Safari
 ```
 
 Install dependencies:
@@ -44,7 +51,7 @@ To write a new post, follow these steps:
 1. Navigate to the docs directory:
 
 ```bash
-cd Exploring_the_tech_frontier/blog
+cd Web3Safari/blog
 ```
 
 2. Create a new markdown file (.md) for your article.
@@ -53,7 +60,7 @@ cd Exploring_the_tech_frontier/blog
 5. Your blog will be automatically added when building the new version of the website.
 
 ## Contributing
-I welcome contributions from the community. If you'd like to contribute by fixing bugs, improving existing articles, or adding new content, please follow these guidelines:
+We welcome contributions from the community. If you'd like to contribute by fixing bugs, improving existing articles, or adding new content, please follow these guidelines:
 
 - Fork this repository.
 - Create a new branch for your changes.
@@ -64,7 +71,7 @@ I welcome contributions from the community. If you'd like to contribute by fixin
 ## Contact
 
 - GitHub: [Juan-LukeKlopper](https://github.com/Juan-LukeKlopper)
-- Twitter: [ScrtAgentLuke](https://twitter.com/ScrtAgentLuke)
+- Twitter: [ScrtAgentLuke](https://twitter.com/ScrtAgentLuke), [Popeblack](https://twitter.com/popeblack)
 
 Feel free to reach out if you have any questions, suggestions, or just want to connect!
 

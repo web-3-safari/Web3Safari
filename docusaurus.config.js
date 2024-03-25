@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Exploring the tech frontier',
+  title: 'Web3Safari',
   tagline: 'Where Tech and Discovery Converge.',
   favicon: 'img/favicon.ico',
 
@@ -14,12 +14,12 @@ const config = {
   url: 'https://juan-lukeklopper.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/Exploring_the_tech_frontier/',
+  baseUrl: '/Web3Safari/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Intercosmic Labs', // Usually your GitHub org/user name.
-  projectName: 'Exploring the tech frontier', // Usually your repo name.
+  organizationName: 'web-3-safari', // Usually your GitHub org/user name.
+  projectName: 'Web3Safari', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -55,7 +55,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Exploring the tech frontier',
+        title: 'Web3Safari',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -94,12 +94,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/Juan-LukeKlopper',
+                href: 'https://github.com/web-3-safari',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Intercosmic Labs.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Web 3 Safari.`,
       },
       prism: {
         theme: lightCodeTheme,
