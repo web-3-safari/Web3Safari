@@ -13,11 +13,11 @@ const FeatureList = [
         ),
     },
   {
-    title: 'Stay Ahead in Tech',
+    title: 'Behind the scenes view',
     Svg: require('@site/static/img/undraw_future.svg').default,
     description: (
       <>
-        Enjoy a Monthly Update Packed with Knowledge and Exploration
+        Enjoy a peak behind the courtain of blockchain validation with our blogs, be it us talking about monitoring or about hardware, we are dedicated to give you all things web3.
       </>
     ),
   },
