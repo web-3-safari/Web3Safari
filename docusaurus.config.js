@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Web3Safari',
-  tagline: 'Where Tech and Discovery Converge.',
+  title: 'Web3 Safari',
+  tagline: 'Where Tech, Discovery and African Spirit Converge.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -55,7 +55,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Web3Safari',
+        title: 'Web3 Safari',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -63,7 +63,7 @@ const config = {
         items: [
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/Juan-LukeKlopper/docusaurus_testing',
+            href: 'https://github.com/web-3-safari/Web3Safari',
             label: 'GitHub',
             position: 'right',
           },
@@ -99,7 +99,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Web 3 Safari.`,
+        copyright: `${new Date().getFullYear()} Web3 Safari.`,
       },
       prism: {
         theme: lightCodeTheme,
