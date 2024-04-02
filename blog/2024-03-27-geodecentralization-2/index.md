@@ -1,7 +1,6 @@
 ---
 slug: Geodecentralization2
 title: "Geographic Decentralization on Archway Part 2"
-authors: [jl]
 tags: [web3]
 enableComments: true
 ---
