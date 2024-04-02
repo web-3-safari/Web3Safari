@@ -1,7 +1,6 @@
 ---
 slug: welcome
 title: "Welcome to the Web3safari Blog."
-authors: [jl]
 tags: [web3]
 enableComments: true
 ---
